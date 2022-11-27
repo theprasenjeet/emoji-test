@@ -3,3 +3,4 @@ pandas
 textblob
 streamlit
 protobuf
+emoji
